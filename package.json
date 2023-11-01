@@ -1,0 +1,6 @@
+{
+  "name": "public_package",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
